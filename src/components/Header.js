@@ -9,7 +9,7 @@ function Header() {
         src="https://image.pngaaa.com/400/1342400-middle.png"
         style={{ width: "40px", marginLeft: "5px", marginRight: "10px" }}
       ></img>
-      <h1 style={{ margin: "0" }}>Bubli notes</h1>
+      <h1 style={{ margin: "0" }}>Smart notes</h1>
     </Paper>
   );
 }
